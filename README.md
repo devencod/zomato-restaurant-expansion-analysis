@@ -31,5 +31,5 @@ To get a complete understanding of the project, please open and review the `[Zom
 
 ## Contact
 
-Devendra Mehta - devendramehta9166@gmail.com
+Devendra Mehta - devendramehta9166@gmail.com | 
 www.linkedin.com/in/devendramehta91
