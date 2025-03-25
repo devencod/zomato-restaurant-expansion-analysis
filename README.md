@@ -4,6 +4,8 @@
 
 This project presents a data-driven analysis to identify optimal locations for new restaurant openings. It explores various factors to provide strategic recommendations for market entry and growth.
 
+![Zomato Project Dashboard](https://github.com/devencod/zomato-restaurant-expansion-analysis/blob/main/Zomato%20Project%20dashboard%20image.PNG)
+
 ## Key Objectives
 
 * Identify promising countries and cities for restaurant expansion.
