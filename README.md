@@ -12,6 +12,10 @@ This project presents a data-driven analysis to identify optimal locations for n
 * Evaluate the impact of online services (delivery and table booking) on customer satisfaction.
 * Offer recommendations on optimal cuisines for new restaurants.
 
+## Data Source
+
+The data used in this analysis is synthetic and created for the purpose of this project. It is intended to simulate real-world restaurant data for analysis and recommendation purposes.
+
 ## Project Files
 
 This repository contains the following files:
