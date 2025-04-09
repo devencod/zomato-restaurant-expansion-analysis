@@ -32,11 +32,7 @@ The dataset used in this project is synthetic and created for academic purposes.
 - `Dashboard Workbook Link.txt` – Link to the Google Sheets workbook.
 - `Project Doc.pdf` – Outlines the methodology, analysis process, key findings, and recommendations.
 
-## Dashboard Access
-
-🔗 [Interactive Dashboard](https://docs.google.com/spreadsheets/d/1vgzjCM8Cc1GuayzqSDzFkmT3ia6OG2f7FO-dhp8RD4I/edit?usp=sharing)
-
-## How to Access
+  ## How to Access
 
 1. **Start with the Presentation**  
    Review `Project Presentation.pptx` for a high-level overview of the analysis, insights, and recommendations.
@@ -47,6 +43,9 @@ The dataset used in this project is synthetic and created for academic purposes.
 3. **Refer to the Project Documentation**  
    Read `Project Doc.pdf` for detailed methodology, data preparation steps, and in-depth analysis findings.
 
+## Dashboard Access
+
+🔗 [Interactive Dashboard](https://docs.google.com/spreadsheets/d/1vgzjCM8Cc1GuayzqSDzFkmT3ia6OG2f7FO-dhp8RD4I/edit?usp=sharing)
 
 ## Contact
 
