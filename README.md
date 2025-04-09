@@ -4,7 +4,7 @@
 
 This project presents a data-driven analysis to identify optimal locations for new restaurant openings. It explores various factors to provide strategic recommendations for market entry and growth.
 
-![Zomato Project Dashboard](https://raw.githubusercontent.com/devncd/zomato-analysis/refs/heads/main/Dashboard%20Visual%20Overview.png)
+![Zomato Project Dashboard](https://github.com/devncd/zomato-analysis/blob/main/Project%20Dashboard%20Image.png?raw=true)
 
 ## Key Objectives
 
