@@ -4,7 +4,7 @@
 
 This project presents a data-driven analysis to identify optimal locations for new restaurant openings. It explores various factors to provide strategic recommendations for market entry and growth.
 
-![Zomato Project Dashboard](https://github.com/devencod/zomato-restaurant-expansion-analysis/blob/main/Zomato%20Project%20dashboard%20image.PNG)
+![Zomato Project Dashboard](https://raw.githubusercontent.com/devncd/zomato-analysis/refs/heads/main/Dashboard%20Visual%20Overview.png)
 
 ## Key Objectives
 
@@ -22,10 +22,10 @@ The data used in this analysis is synthetic and created for the purpose of this 
 
 This repository contains the following files:
 
-* `[Zomato Project Presentation.pptx]` - Detailed presentation of the project findings and recommendations.
-* `[Zomato Project Doc.pdf]` - Comprehensive document outlining the methodology, analysis process, key findings, and recommendations.
-* `[Zomato Project Spreadsheet (Google Sheet Link).txt]` - Link to the project spreadsheet containing the interactive dashboard.
-* `[Zomato Project dashboard image.png]` - Visual overview of the final project dashboard.
+* `[Project Presentation.pptx]` - Detailed presentation of the project findings and recommendations.
+* `[Project Doc.pdf]` - Comprehensive document outlining the methodology, analysis process, key findings, and recommendations.
+* `[Project Workbook.txt]` - Link to the project workbook containing the interactive dashboard.
+* `[Project Dashboard Image.png]` - Visual overview of the final project dashboard.
 
 ## Summary of Findings
 
