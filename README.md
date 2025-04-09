@@ -16,26 +16,28 @@ This project presents a data-driven analysis to identify optimal locations for n
 
 ## Data Source
 
-The data used in this analysis is synthetic and created for the purpose of this project. It is intended to simulate real-world restaurant data for analysis and recommendation purposes.
-
-## Project Files
-
-This repository contains the following files:
-
-* `[Project Presentation.pptx]` - Detailed presentation of the project findings and recommendations.
-* `[Project Doc.pdf]` - Comprehensive document outlining the methodology, analysis process, key findings, and recommendations.
-* `[Project Workbook Link.txt]` - Link to the project workbook containing the interactive dashboard.
-* `[Project Dashboard Image.png]` - Visual overview of the final project dashboard.
+The dataset used in this project is synthetic and created for academic purposes. It mimics real-world restaurant data, covering 9,500+ restaurants across 15 countries and 141 cities. Key attributes include cuisines, ratings, votes, price ranges, and service options like table booking and online delivery.
 
 ## Summary of Findings
 
-The analysis indicates that Indonesia, Philippines, Turkey, and UAE show strong potential for expansion due to their lower competition and high customer engagement. For detailed recommendations, please refer to the presentation slides.
+- Best expansion opportunities: **Indonesia**, **Philippines**, **Turkey**, and **UAE**.
+- Restaurants with **table booking** and **online delivery** receive higher ratings.
+- Most restaurants fall in the **affordable to mid-range** price segments.
+- Cuisine preferences vary by region—local and American styles dominate.
 
-## How to Explore
+## Project Files
 
-To get a complete understanding of the project, please open and review the `[Project Presentation.pptx]` file.
+- `Project Presentation.pptx` – Final project presentation.
+- `Project Dashboard Image.png` – Snapshot of the analysis dashboard.
+- `Dashboard Workbook Link.txt` – Link to the Google Sheets workbook.
+- `Project Doc.pdf` – Outlines the methodology, analysis process, key findings, and recommendations.
+
+## Dashboard Access
+
+🔗 [Interactive Dashboard](https://docs.google.com/spreadsheets/d/1vgzjCM8Cc1GuayzqSDzFkmT3ia6OG2f7FO-dhp8RD4I/edit?usp=sharing)
 
 ## Contact
 
-Devendra Mehta - devendramehta9166@gmail.com | 
-www.linkedin.com/in/devendramehta91
+**Devendra Mehta**  
+📧 devendramehta9166@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/devendramehta91)
