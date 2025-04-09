@@ -36,10 +36,8 @@ The dataset used in this project is synthetic and created for academic purposes.
 
 1. **Start with the Presentation**  
    Review `Project Presentation.pptx` for a high-level overview of the analysis, insights, and recommendations.
-
 2. **Explore the Dashboard**  
    Use the interactive dashboard link in `Dashboard Workbook Link.txt` to filter data by country, city, and year. This helps visualize restaurant trends and market potential.
-
 3. **Refer to the Project Documentation**  
    Read `Project Doc.pdf` for detailed methodology, data preparation steps, and in-depth analysis findings.
 
