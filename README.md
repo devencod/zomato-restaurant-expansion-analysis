@@ -33,7 +33,7 @@ The analysis indicates that Indonesia, Philippines, Turkey, and UAE show strong 
 
 ## How to Explore
 
-To get a complete understanding of the project, please open and review the `[Zomato Project Presentation.pptx]` file.
+To get a complete understanding of the project, please open and review the `[Project Presentation.pptx]` file.
 
 ## Contact
 
