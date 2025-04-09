@@ -24,7 +24,7 @@ This repository contains the following files:
 
 * `[Project Presentation.pptx]` - Detailed presentation of the project findings and recommendations.
 * `[Project Doc.pdf]` - Comprehensive document outlining the methodology, analysis process, key findings, and recommendations.
-* `[Project Workbook.txt]` - Link to the project workbook containing the interactive dashboard.
+* `[Project Workbook Link.txt]` - Link to the project workbook containing the interactive dashboard.
 * `[Project Dashboard Image.png]` - Visual overview of the final project dashboard.
 
 ## Summary of Findings
